@@ -16,3 +16,9 @@
 | Sandra Fabiana Pires Cerqueira | A100681 |SandraCerqueira1 |
 
 </div>
+
+# Grades
+  
+**TP1:** 16
+
+**TP2:** 16.2
